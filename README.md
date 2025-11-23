@@ -1,5 +1,3 @@
-# relative-trans-influence-project
-
 # Relative Trans Influence of PbPh₃ and SnPh₃ Ligands in Pentacarbonylmanganese(I) Complexes
 
 This repository hosts my undergraduate inorganic chemistry research report:
