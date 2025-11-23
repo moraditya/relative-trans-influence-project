@@ -4,7 +4,7 @@
 
 This repository hosts my undergraduate inorganic chemistry research report:
 
-> **“Study on the Relative Trans Influence of –EPh₃ Ligands (E = Pb, Sn) in Pentacarbonylmanganese(I) Complexes like Mn(CO)₅PbPh₃ and Mn(CO)₅SnPh₃.”** :contentReference[oaicite:0]{index=0}  
+> **“Study on the Relative Trans Influence of –EPh₃ Ligands (E = Pb, Sn) in Pentacarbonylmanganese(I) Complexes like Mn(CO)₅PbPh₃ and Mn(CO)₅SnPh₃.”**
 
 All experimental work (synthesis, purification, spectroscopy, and crystallography) was carried out in the Advanced Inorganic Chemistry laboratory under Professor Timothy Johnstone's direction.
 
